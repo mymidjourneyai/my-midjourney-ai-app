@@ -1,0 +1,10 @@
+/* FullWidthImage.module.css */
+.fullWidthImage {
+  width: 100%; /* Span the full width of the screen */
+  overflow: hidden; /* Hide any overflow content */
+}
+
+.imageWrapper {
+  position: relative;
+  width: 100%;
+}
