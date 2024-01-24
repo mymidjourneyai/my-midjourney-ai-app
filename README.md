@@ -33,7 +33,7 @@ A open source web app for midjourney AI art generation.
 - [ ] better UI/UX for non-tech background users
 - [ ] multi-language support
 
-### Need more features? Please check out [the Pro version](https://github.com/iamzifei/midjourney-ai-app/tree/Pro), including features such as payment, user management, complete Midjourney features support and more!
+### Need more features? Please check out [the Pro version](https://github.com/mymidjourneyai/my-midjourney-ai-app/tree/Pro), including features such as payment, user management, complete Midjourney features support and more! Will release soon.
 
 ## How to use
 
